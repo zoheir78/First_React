@@ -1,0 +1,46 @@
+
+.nav
+{
+  position: fixed;
+  width: 100%;
+  height: 40px;
+  color: #fff;
+  background-color: lightblue;
+  border: 1px solid black;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-shadow: 0px 0px 10px #cfd8dc  
+                       
+            
+}
+.navComp
+{
+  position: fixed;
+  width: 100%;
+  height: 40px;
+  color: #fff;
+  background-color: lightblue;
+  border: 1px solid black;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-shadow: 0px 0px 10px #cfd8dc  
+                       
+            
+}
+.navComp2
+{
+  margin: 3rem;
+  padding: 1rem;
+
+}
+.navComp:hover
+{
+  background-color: lightgreen;
+  scale: 1.2;
+}
